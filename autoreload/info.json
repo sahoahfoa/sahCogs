@@ -1,0 +1,20 @@
+{
+  "author": [
+    "Scottie"
+  ],
+  "bot_version": [
+    1,
+    0,
+    0
+  ],
+  "description": "Tired of running [p]reload <cog name> when developing a cog? Let [p]autoreload do that for you!",
+  "install_msg": "Thank you for installing AutoReload! Get started with `[p]load AutoReload` and `[p]help AutoReload`",
+  "short": "Auto-reload cogs",
+  "requirements": ["watchdog"],
+  "tags": [
+    "reload",
+    "dev",
+    "automation",
+    "development",
+  ]
+}
